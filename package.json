@@ -1,13 +1,13 @@
 {
   "name": "midnight-cloud",
-  "displayName": "Midnight Cloud",
+  "displayName": "Midnight Cloud Theme",
   "description": "midnight cloud theme optimized for comfortable long coding hours.Focused dark navy palette for reduced eye strain while coding.",
   "publisher": "sojibahmed",
   "author": {
     "name": "sojib ahmed"
   },
   "icon": "/image/midnight-cloud.png",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.94.0"
   },
@@ -26,6 +26,8 @@
     "Midnight cloud",
     "Midnight",
     "midnight",
+    "mid night",
+    "theme",
     "midnight cloud",
     "mid night cloud",
     "Mid night cloud",
@@ -40,7 +42,13 @@
     "vs code theme",
     "github",
     "github theme",
-    "tailwind css"
+    "tailwind css",
+    "Tokyo Night",
+    "Dracula Official",
+    " Night Owl",
+    "Monokai Pro",
+    "Atom One Dark",
+    "GitHub Theme"
   ],
   "contributes": {
     "themes": [
@@ -63,6 +71,16 @@
         "label": "Midnight Cloud - Shadow Mist",
         "uiTheme": "vs-dark",
         "path": "./themes/midnight-cloud-Shadow-Mist.json"
+      },
+      {
+        "label": "Midnight Cloud - Minimalist",
+        "uiTheme": "vs-dark",
+        "path": "./themes/midnight-cloud-minimalist.json"
+      },
+      {
+        "label": "Midnight Cloud - Official",
+        "uiTheme": "vs-dark",
+        "path": "./themes/midnight-cloud-official.json"
       }
     ]
   }

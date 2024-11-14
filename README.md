@@ -1,4 +1,4 @@
-# midnight cloud
+# midnight cloud theme
 
 Dark cloud theme optimized for comfortable long coding hours.Focused dark navy palette for reduced eye strain while coding.
 
@@ -11,11 +11,17 @@ Dark cloud theme optimized for comfortable long coding hours.Focused dark navy p
 > * Midnight Cloud - Deep Abyss
 > * Midnight Cloud - Dark Superior
 > * Midnight Cloud - Shadow Mist
+> * Midnight Cloud - Minimalist
+> * Midnight Cloud - Official
 >
 
 __________________________________
 
 ## demo themes
+
+__________________________________
+- Midnight Cloud - Official
+![demo image](image/themeSixOfficinal.gif)
 __________________________________
 - Midnight Cloud - Peace of the eye
 ![demo image](image/themesOne.gif)
@@ -30,9 +36,11 @@ __________________________________
 - Midnight Cloud - Shadow Mist
 ![demo image](image/themeThreeMist.gif)
 
+__________________________________
+- Midnight Cloud - Minimalist
+![demo image](./image/themesFiveMInimal.gif)
 
 __________________________________
-
 
 > ## Installation
 > - [x] Open the extensions sidebar on Visual Studio Code

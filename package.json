@@ -1,0 +1,69 @@
+{
+  "name": "midnight-cloud",
+  "displayName": "Midnight Cloud",
+  "description": "midnight cloud theme optimized for comfortable long coding hours.Focused dark navy palette for reduced eye strain while coding.",
+  "publisher": "sojibahmed",
+  "author": {
+    "name": "sojib ahmed"
+  },
+  "icon": "/image/midnight-cloud.png",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "galleryBanner": {
+    "color": "#006d5d",
+    "theme": "dark"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "Midnight cloud",
+    "Midnight",
+    "midnight",
+    "midnight cloud",
+    "mid night cloud",
+    "Mid night cloud",
+    "Mid night pro coder",
+    "Dark blue coding theme",
+    "Stylish dark VS Code theme",
+    "Dark theme",
+    "Dracula theme",
+    "Night Owl",
+    "Ayu",
+    "One Dark Pro",
+    "vs code theme",
+    "github",
+    "github theme",
+    "tailwind css"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Midnight Cloud - Peace of the eye",
+        "uiTheme": "vs-dark",
+        "path": "./themes/midnight-cloud-Peace-of-the-eye.json"
+      },
+      {
+        "label": "Midnight Cloud - Deep Abyss",
+        "uiTheme": "vs-dark",
+        "path": "./themes/midnight-cloud-Deep-Abyss.json"
+      },
+      {
+        "label": "Midnight Cloud - Dark Superior",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Midnight-Cloud-Dark-Superior.json"
+      },
+      {
+        "label": "Midnight Cloud - Shadow Mist",
+        "uiTheme": "vs-dark",
+        "path": "./themes/midnight-cloud-Shadow-Mist.json"
+      }
+    ]
+  }
+}
